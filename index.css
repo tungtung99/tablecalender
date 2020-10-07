@@ -1,0 +1,26 @@
+.container{
+    width: 800px;
+    text-align: center;
+}
+th.thmot{
+    width: 100px;
+    color: white;
+    text-align: center;
+    border-right: white solid 3px;
+    font-size: 20px;
+}
+td.tdmot{
+    font-size: 20px;
+}
+tr.trmot{
+    height: 40px;
+}
+td.tdhai{
+    width: 100px;
+    font-size: 20px;
+    font: bold;
+    color: black;
+}
+tr.trhai{
+    height: 40px;
+}
